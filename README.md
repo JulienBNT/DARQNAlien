@@ -1,14 +1,14 @@
 # DARQN avec CBAM pour Atari Alien
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/alienanthology/images/3/36/Alien_movie_logo.png" alt="Alien" width="400"/>
+  <img src="images/alien.jpg" alt="Alien" width="400"/>
   <p><i>Alien</i></p>
 </div>
 
 ## Images du jeu
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Alien_Atari_2600.png" alt="Alien Atari" width="400"/>
+  <img src="images/alien-atari.jpg" alt="Alien Atari" width="400"/>
   <p><i>Alien - Atari 2600</i></p>
 </div>
 
