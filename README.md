@@ -1,15 +1,13 @@
 # DARQN avec CBAM pour Atari Alien
 
 <div align="center">
-  <img src="images/alien.jpg" alt="Alien" width="400"/>
-  <p><i>Alien</i></p>
+  <img src="images/alien.jpg" alt="Alien"/>
 </div>
 
 ## Images du jeu
 
 <div align="center">
-  <img src="images/alien-atari.jpg" alt="Alien Atari" width="400"/>
-  <p><i>Alien - Atari 2600</i></p>
+  <img src="images/alien-atari.jpg" alt="Alien Atari"/>
 </div>
 
 ## Architecture du projet
